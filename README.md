@@ -49,4 +49,22 @@ oObejtos tambem são estruturas de dados só que **não-indexados**, ou seja, o 
 
 Normalmente, o objeto é programado de acordo com algum contexto relacionado ao mundo real.
 
-aaaaaaaaaaaaaaaaaaaaaaaa
+-------
+
+## Sobre condicionais
+
+São estruturas/comandos que permitem analisar uma ou mais condições dentro de uma aplicação.
+
+De acordo com essa analise, podendo ser **verdadeiro ou falso**, a aplicação poderá fazer ações diferentes.
+
+### Operadores relacionais
+
+Ao trabalhar com condicionais, é comum utilizar operações relacionadas para comparações dentro das condições. Os operadores mias comund são:
+
+- Maior que          >
+- Menor que          <
+- Maior ou igual    >=
+- Menor ou igual    <= 
+- Igualdade         ==
+- Diferença         !=
+
