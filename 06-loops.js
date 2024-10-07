@@ -99,8 +99,4 @@ const clientes = [
 for (const cliente of clientes) {
     console.log("Cliente: "+cliente.nome+", Id: "+cliente.identificador);
 }
-/* 
-for (let i = 0; i <clientes[2].length; i++) {
-    console.log(clientes[i]);
-}
- */
+
